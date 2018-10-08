@@ -1,4 +1,4 @@
-package Observer;
+package observer;
 
 public class PressureObserver implements Observer {
 
